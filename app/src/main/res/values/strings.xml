@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AppUsuarios</string>
+    <string name="botonGuardar">Guardar</string>
+    <string name="botonVer">Ver</string>
+</resources>
